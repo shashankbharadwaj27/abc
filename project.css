@@ -1,0 +1,20 @@
+body{
+    background-image: url("1298882.jpg");
+}
+.head{
+    height:100px;
+    width: 1500px;
+    display: flex;
+    color: black ;
+
+}
+#heading{
+    height: 150px;
+    width: 100%;
+}
+.abt{
+    background-color: black;
+    height: 300px;
+    width: 1500px;
+    
+}
